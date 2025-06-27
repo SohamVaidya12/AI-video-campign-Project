@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="AI Video Campaigns Logo" width="200"/>
+  <img src="logo.png" alt="AI Video Campaigns Logo" width="280"/>
 </p>
 
 # 🎬 AI-Based Video Campaigns using HeyGen, ChatGPT & ElevenLabs
