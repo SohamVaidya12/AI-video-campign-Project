@@ -77,3 +77,19 @@ To demonstrate this skill, I used **my own photograph** to generate a **realisti
 | ElevenLabs   | Realistic AI voiceovers            |
 | Invideo AI   | Video layout & design enhancements |
 | Canva        | Thumbnail & final polish           |
+
+
+### 🔹 HeyGen
+AI-based platform used to generate realistic avatars from photos or short videos. It offers features like **Talking Photo** and **custom avatar creation**, allowing you to build professional video presenters without live recordings.
+
+### 🔹 ChatGPT
+Used for **prompt engineering**, **scriptwriting**, and generating story-based narratives. It helped in drafting emotionally engaging and informative dialogues for promotional and explainer videos.
+
+### 🔹 ElevenLabs
+A text-to-speech tool used to create **natural, expressive voiceovers**. It allowed for customization of tone, accent, and delivery to match the target audience and mood of the video.
+
+### 🔹 Invideo AI
+Online video editing platform that enabled **design enhancements**, **dynamic layouts**, and **scene transitions**. It helped elevate the visual quality of videos by integrating media, text overlays, and effects.
+
+### 🔹 Canva
+Used for designing **high-quality thumbnails**, banners, and visual assets. It played a key role in preparing the final video presentation and brand visuals with clean, professional design.
