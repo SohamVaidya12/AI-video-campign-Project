@@ -17,6 +17,19 @@ This repository showcases my internship work at **Quartz Financial Advisory Serv
 ✅ Delivered full video workflows – from **ideation to publishing**
 
 ---
+## 🎭 Realistic Avatars with HeyGen
+
+As part of the AI video campaigns, I created multiple **realistic and professional AI avatars** using **HeyGen**. These avatars were used to deliver promotional messages, narrate investment stories, and present market news in an engaging and human-like manner.
+
+### 🔧 Avatar Creation Workflow:
+
+1. **Select or Upload Base Avatar** – Used HeyGen’s avatar gallery or uploaded custom videos/photos.
+2. **Script Integration** – Added scripts written using ChatGPT for narration/dialogue.
+3. **Voice Syncing** – Used ElevenLabs or HeyGen’s built-in voices for lifelike speech.
+4. **Styling** – Customized gestures, outfits, expressions, and background.
+5. **Rendering** – Exported high-resolution avatar videos for campaign use.
+
+---
 
 ## 🧰 Tools & Technologies
 
