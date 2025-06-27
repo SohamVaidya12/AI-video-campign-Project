@@ -32,8 +32,8 @@ As part of the AI video campaigns, I created multiple **realistic and profession
 ### 👤 Sample Avatars
 
 <p align="center">
-  <img src="avatars/Avatar (3).png" alt="AI Avatar 1" width="240"/>
-  <img src="avatars/Avatar (8).png" alt="AI Avatar 2" width="240"/>
+  <img src="Avatar (3).png" alt="AI Avatar 1" width="240"/>
+  <img src="Avatar (8).png" alt="AI Avatar 2" width="240"/>
 </p>
 
 ---
