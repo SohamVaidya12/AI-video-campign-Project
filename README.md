@@ -53,6 +53,18 @@ To demonstrate this skill, I used **my own photograph** to generate a **realisti
 - Enables **clients or business owners** to become the face of their product without professional shoots
 - Ideal for **personalized marketing, product walkthroughs, training videos**, and more
 
+---
+
+### 🖼️ Sample Snapshot from Avatar Video
+
+<p align="center">
+  <img src="avatars/sample.png" alt="AI Avatar Sample Frame" width="300"/>
+</p>
+
+> 🧠 This image is a sample frame from the AI avatar video I created using my own photo.  
+> 🚫 *Note: The full video is not shareable due to company confidentiality policies.*
+
+
 
 ---
 
