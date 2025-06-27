@@ -36,6 +36,24 @@ As part of the AI video campaigns, I created multiple **realistic and profession
   <img src="Avatar (8).png" alt="AI Avatar 2" width="240"/>
 </p>
 
+### 🧑‍💼 📸 Personalized Avatar Videos from Real Client Photos *(New Skill Learned 🚀)*
+
+During my internship, I learned how to create **AI avatars from real client photos or videos** and develop fully customized **AI-based promotional videos** using those avatars. 
+
+To demonstrate this skill, I used **my own photograph** to generate a **realistic talking avatar** and create a sample promotional video, showcasing how a real person can be turned into an AI video presenter.
+
+#### 💼 What I Did:
+- Uploaded my own photo to HeyGen's **Talking Photo** tool
+- Generated a personal avatar with natural gestures and expressions
+- Wrote a short product pitch script using ChatGPT
+- Applied a human-like voice using HeyGen/ElevenLabs
+- Created a professional avatar video as a demo
+
+#### ✨ Real-World Application:
+- Enables **clients or business owners** to become the face of their product without professional shoots
+- Ideal for **personalized marketing, product walkthroughs, training videos**, and more
+
+
 ---
 
 ## 🧰 Tools & Technologies
