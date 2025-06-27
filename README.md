@@ -22,4 +22,4 @@ This repository showcases my internship work at **Quartz Financial Advisory Serv
 | ChatGPT      | Prompt engineering & scriptwriting |
 | ElevenLabs   | Realistic AI voiceovers            |
 | Invideo AI   | Video layout & design enhancements |
-| Canva/CapCut | (Optional) Thumbnail & final polish|
+| Canva        |  Thumbnail & final polish          |
