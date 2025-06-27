@@ -29,6 +29,13 @@ As part of the AI video campaigns, I created multiple **realistic and profession
 4. **Styling** – Customized gestures, outfits, expressions, and background.
 5. **Rendering** – Exported high-resolution avatar videos for campaign use.
 
+### 👤 Sample Avatars
+
+<p align="center">
+  <img src="avatars/Avatar (3).png" alt="AI Avatar 1" width="240"/>
+  <img src="avatars/Avatar (8).png" alt="AI Avatar 2" width="240"/>
+</p>
+
 ---
 
 ## 🧰 Tools & Technologies
