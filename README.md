@@ -58,7 +58,7 @@ To demonstrate this skill, I used **my own photograph** to generate a **realisti
 ### 🖼️ Sample Snapshot from Avatar Video
 
 <p align="center">
-  <img src="sample.png" alt="AI Avatar Sample Frame" width="300"/>
+  <img src="sample .png" alt="AI Avatar Sample Frame" width="300"/>
 </p>
 
 > 🧠 This image is a sample frame from the AI avatar video I created using my own photo.  
