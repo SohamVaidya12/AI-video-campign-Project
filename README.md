@@ -46,7 +46,7 @@ To demonstrate this skill, I used **my own photograph** to generate a **realisti
 - Uploaded my own photo to HeyGen's **Talking Photo** tool
 - Generated a personal avatar with natural gestures and expressions
 - Wrote a short product pitch script using ChatGPT
-- Applied a human-like voice using HeyGen/ElevenLabs
+- Applied a human-like voice using HeyGen and ElevenLabs
 - Created a professional avatar video as a demo
 
 #### ✨ Real-World Application:
