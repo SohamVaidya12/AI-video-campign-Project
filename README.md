@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="AI Video Campaigns Logo" width="200"/>
+</p>
+
 # 🎬 AI-Based Video Campaigns using HeyGen, ChatGPT & ElevenLabs
 
 This repository showcases my internship work at **Quartz Financial Advisory Services**, where I created professional **AI-generated promotional videos** and **stock market news content** using tools like **HeyGen**, **ChatGPT**, **Invideo AI**, and **ElevenLabs**.
@@ -22,4 +26,4 @@ This repository showcases my internship work at **Quartz Financial Advisory Serv
 | ChatGPT      | Prompt engineering & scriptwriting |
 | ElevenLabs   | Realistic AI voiceovers            |
 | Invideo AI   | Video layout & design enhancements |
-| Canva        |  Thumbnail & final polish          |
+| Canva        | Thumbnail & final polish           |
